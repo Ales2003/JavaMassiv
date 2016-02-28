@@ -15,6 +15,8 @@ public class JavaMassiv {
      * @param args the command line arguments
      */
     public void print (){
+    
+        System.out.println("*")
     }
     
     public static void main(String[] args) {
