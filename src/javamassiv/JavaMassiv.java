@@ -14,6 +14,9 @@ public class JavaMassiv {
     /**
      * @param args the command line arguments
      */
+    public void print (){
+    }
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
