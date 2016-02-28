@@ -16,7 +16,7 @@ public class JavaMassiv {
      */
     public void print (){
     
-        System.out.println("*")
+        System.out.println("***")
     }
     
     public static void main(String[] args) {
