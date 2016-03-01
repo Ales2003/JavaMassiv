@@ -15,7 +15,7 @@ public class JavaMassiv {
      * @param args the command line arguments
      */
     public static void print (){
-    
+        System.out.println();
         System.out.println("****************************");
         
     }
@@ -29,7 +29,7 @@ public class JavaMassiv {
         for(int i=0;i<a.length-1;i++){
                 System.out.print(a[i]);
         }
-        System.out.println();
+     
         print();
         
         for(int i=0;i<a.length-1;i++){
@@ -37,7 +37,7 @@ public class JavaMassiv {
                 JavaMassiv.p(a[i]);
         
         }
-        System.out.println();
+     
         print();
         
         
