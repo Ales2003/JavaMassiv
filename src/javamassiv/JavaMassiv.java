@@ -40,7 +40,11 @@ public class JavaMassiv {
      
         print();
         
+/*левой кнопкой мыши щелкаем по номеру строки - получаем Breackpoint
+        вверху жмем Debug (в меню или зеленая кнопка справа от основной)
+        смотрим работу кода
         
+        */        
 
 
 // TODO code application logic here
